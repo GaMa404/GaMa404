@@ -22,6 +22,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaMa404&layout=compact&langs_count=16&theme=dark" />
 </div>
 
-#  
+#
+<div>
+  <a href="https://instagram.com/leeoluzetti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"      target="_blank"></a>
+  <a href = "mailto:luzettileonardo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+  
   
   
