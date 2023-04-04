@@ -1,4 +1,4 @@
-### 👋 Olá! Me chamo Leonardo e atualmente estou cursando 2° ano de Desenvolvimento de Sistemas
+### 👋 Olá! Me chamo Leonardo e atualmente estou cursando 3° ano de Desenvolvimento de Sistemas
 #
 
 - 🎉17y
