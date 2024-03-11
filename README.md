@@ -1,4 +1,4 @@
-### 👋 Olá! Me chamo Leonardo e atualmente estou cursando 3° ano de Desenvolvimento de Sistemas
+### 👋 Olá! Me chamo Leonardo, sou Técnico em Desenvolvimento de Sistemas, e atualmente estou cursando o primeiro semestre em Desenvolvimento de Software Multiplataforma - FATEC JAHU
 #
 
 - 🎉18y
