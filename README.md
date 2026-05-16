@@ -10,13 +10,13 @@
 
 <br>
 
-<div align="center"; style="display: flex; flex-direction: row"> 
+<!-- <div align="center"; style="display: flex; flex-direction: row"> 
   <img height="380" src="https://ghstats.dev/api/card?username=gama404&theme=nord&border_radius=7"/>
   <div style="display: flex; flex-direction: column">
     <img width="400" src="https://ghstats.dev/api/langs?username=gama404&theme=nord&border_radius=7&max_langs=6"/>
     <img width="400" src="https://ghstats.dev/api/sparkline?username=gama404&theme=nord&days=30"/>
   </div>
-</div>
+</div> -->
 
 ### Learning
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
